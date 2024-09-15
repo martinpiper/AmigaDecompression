@@ -1,0 +1,2 @@
+# AmigaDecompression
+ Amiga decompression code
