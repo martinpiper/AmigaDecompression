@@ -1,0 +1,16 @@
+Original			47,952
+LZMPiU compressed - No exe	22,391
+
+PowerPacker			27,084
+
+LZMPiU exe			24,184
+Strip symbols and optimise for size:
+23,320 bytes
+Removing source size checks, end data checks, and bad offset checks:
+23,096 bytes
+Removing slightly more data
+23,092
+Remove runCodeAt and no return...
+23,080
+
+Saved 4004 bytes compared to PowerPacker :)
